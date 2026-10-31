@@ -1,0 +1,5 @@
+{
+  "name": "mod-claude",
+  "owner": { "name": "Amabilekiwi" },
+  "plugins": [{ "name": "snella", "source": "./" }]
+}
